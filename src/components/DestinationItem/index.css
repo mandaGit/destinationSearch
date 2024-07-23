@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.destination-image {
+  height: 200px;
+  width: 250px;
+  padding-top: 8px;
+  padding-right: 20px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
